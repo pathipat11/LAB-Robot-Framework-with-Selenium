@@ -1,0 +1,2 @@
+open cmd: robot -d robot -d results (...)/testcases/RegisterTestcases.robot
+this is your path form your (...)

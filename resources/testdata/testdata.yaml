@@ -1,0 +1,12 @@
+  # Existing login data
+  email: "Ab.stopbus+1@gmail.com"
+  valid_password: "Password123!"
+  invalid_password: "Password456!"
+
+  # New registration data
+  register_email: "pathipat.m@kkumail.com"
+  firstName: "Pathipat"
+  lastName: "Mattra"
+  phoneNumber: "0952403450"
+  newPassword: "1234qwerasdfzxcvoO#"
+  confirmPassword: "1234qwerasdfzxcvoO#"
